@@ -2,7 +2,6 @@
 
 bash
 ```
-go mod init main.go
 
 go get gopkg.in/yaml.v2
 
